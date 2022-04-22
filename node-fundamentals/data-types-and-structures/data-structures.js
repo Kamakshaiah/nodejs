@@ -39,3 +39,4 @@ mySet.add({a:1, b:2})
 for (let k of mySet.keys()) console.log(k);
 for (let v of mySet.values()) console.log(v);
 for (let [k,v] of mySet.entries()) console.log(k, v);
+
